@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Great+Vibes&family=Roboto:ital,wght@0,300;0,400;0,900;1,700&display=swap');
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+a {
+  text-decoration: none;
+  font-family: 'Dancing Script', cursive;
+
+  color: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Dancing Script', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
